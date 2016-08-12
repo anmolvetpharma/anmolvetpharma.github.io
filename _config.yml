@@ -3,8 +3,7 @@ title: Anmol Vet Pharma
 description: "Manufacturer of veterinary products for 20 years. Our Product range includes various Products."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "anmolvetpharma.in" # the name of your domain
-logo_url: svg/min/logo.svg
-
+logo_url: img/avp.jpg
 # Hero
 hero: 
     hero_img: hero.jpg
